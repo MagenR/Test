@@ -7,7 +7,7 @@ namespace GitTut.Models
 {
     public class TestClass
     {
-        int iD;
+        int iDd;
         public TestClass(){
             id = 5;
         }
