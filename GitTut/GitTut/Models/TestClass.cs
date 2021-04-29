@@ -9,7 +9,7 @@ namespace GitTut.Models
     {
         int id;
         public TestClass(){
-            id = 0;
+            id = 5;
         }
     }
 }
